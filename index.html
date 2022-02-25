@@ -4,26 +4,186 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="index.css"
-    <title>PORTFOLIO</title>
+    <link rel="stylesheet" href="index.css">
+    <title>Landing Page</title>
 </head>
 <body>
     <header>
         <div class="container menu-section">
-            <div>
-                <h2> Esther Adwets</h2>
-            </div>
-</div>
-
-<nav> 
-    <ul class="page-links">
-        <li>HOME</li>
-        <li>ABOUT ME</li>
-        <li>PORTFOLIO</li>
-        <li>CONTACT ME</li>
-    </ul>
-</nav>
+        <div>
+            <h2 class="logo">
+                EstherA
+            </h2>
+        </div>
+        <div>
+        <nav>
+            <ul class="page-links">
+                <li>Home</li>
+                <li>About Me</li>
+                <li>Portofolio</li>
+                <li>Contact</li>
+            </ul>
+        </nav>
+        </div>
+        </div>
     </header>
-    
+
+    <section><!------HERO SECTION------>
+        <div class="container">
+            <div class="hero-wrapper">
+                <div class="me-info">
+                    <h4>Hi there!</h4>
+                    <h2>I'm <span>Esther Adwets</span> a FrontEnd Web dev</h2>
+                    <h5>Lorem ipsum dolor sit amet consectetur adipisicing elit. 
+                        Voluptatibus nihil repudiandae distinctio quibusdam animi 
+                        dolorum eius mollitia eaque adipisci tempora.
+                    </h5>
+                    <button class="btn">Hire Me</button>
+                </div>
+                <div class="pic">
+                    <div>
+                        <img src="./img/IMG_3075.jpg" class="img-esther" alt="esther">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section><!--------ABOUT ME--------->
+        <div class="container">
+            <div class="about-wrapper">
+                <div class="aboutme">
+                    <h3>About Me</h3>
+                    <h1>Why you should hire me for your next project</h1>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt aspernatur libero
+                         fuga soluta dolores officia dolor nemo, voluptas reprehenderit temporibus!
+                    </p>
+                    <button class="btn">Download CV</button>
+                </div>
+                <div class="img-me">
+                    <img src="./img/IMG_3075.jpg" class="bout-me-img" alt="esther">
+                </div>
+                <div class="skills">
+                    <h2>Skills</h2>
+                    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit.</p>
+                    
+                    <div class="skill">
+                        <div class="skill-name">HTML</div>
+                        <div class="bar">
+                            <div class="skill-bar" per="90%" style="width:90%"></div>
+                        </div>
+                    </div>
+
+                    <div class="skill">
+                        <div class="skill-name">CSS</div>
+                        <div class="bar">
+                            <div class="skill-bar" per="80%" style="width:80%"></div>
+                        </div>
+                    </div>
+
+                    <div class="skill">
+                        <div class="skill-name">JS</div>
+                        <div class="bar">
+                            <div class="skill-bar" per="40%" style="max-width:40%"></div>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section><!--------PORTOFOLIO---------->
+        <div class="container">
+            <div class="portofolio">
+            <div class="portofolio-head">
+                <p>Portofolio</p>
+                <h2>My Protofolio</h2>
+            </div>
+            <div class="projects">
+                <ul>
+                    <li>
+                        <div class="portofolio-wrapper">
+                            <div class="description-1">
+                                <h4 style="font-weight: 300; font-size: 20px;">Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis officia 
+                                    error natus vero dolor explicabo fugit suscipit magni commodi reiciendis?
+                                </h4>
+                            </div>
+                            <div class="number">01</div>
+                            <div class="date-description">
+                                <h3 style="font-size: 28px; margin-bottom: 4px;">Primary School</h3>
+                                <p style="margin-bottom: 4px; font-size: 16px;">name of primary school</p>
+                                <h3>2002-02-02 to 2012-02-02</h3>
+                            </div>
+                        </div>
+                    </li>
+                    <li>
+                        <div class="portofolio-wrapper">
+                            <div class="date-description">
+                                <h3 style="font-size: 28px; margin-bottom: 4px;">High School</h3>
+                                <p style="margin-bottom: 4px; font-size: 16px;">name of highschool</p>
+                                <h4>2012-02-02 to 2014-03-03</h4>
+                            </div>
+                            <div class="number">02</div>
+                            <div class="description-2">
+                                <h4 style="font-weight: 300; font-size: 20px;">Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis officia 
+                                    error natus vero dolor explicabo fugit suscipit magni commodi reiciendis?
+                                </h4>
+                            </div>
+                        </div>
+                    </li>
+                    <li>
+                        <div class="portofolio-wrapper">
+                            <div class="description-2">
+                                <h4 style="font-weight: 300; font-size: 20px;">Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis officia 
+                                    error natus vero dolor explicabo fugit suscipit magni commodi reiciendis?
+                                </h4>
+                            </div>
+                            <div class="number">03</div>
+                            <div class="date-description">
+                                <h3 style="font-size: 28px; margin-bottom: 4px;">High Education</h3>
+                                <p style="margin-bottom: 4px; font-size: 16px;">name of highschool</p>
+                                <h3>2015-02-02 to 2018-04-04</h3>
+                            </div>
+                        </div>
+                    </li>
+                </ul>
+            </div>
+            </div>
+        </div>
+    </section>
+
+
+    <section><!------EMAIL ME------->
+        <div class="container reach-me-mail">
+            <h2>Project in Mind?</h2>
+            <div class="reach-me">
+                <input type="email" class="email-input" placeholder="abc@gmail.com" name="" id="">
+                <button class="btn-send">Send</button>
+            </div>
+        </div>
+    </section>
+
+    <section><!-------FOOTER----->
+        <div class="container footer">
+            <div class="logo">
+                <h2>Esther Adwets</h2>
+            </div>
+            <div class="socials">
+
+            </div>
+            <div class="mail">
+                <h2>esther@gmail.com</h2>
+            </div>
+            <div class="menus">
+                <ul>
+                   <li>Home</li>
+                   <li>About Me</li>
+                   <li>Portofolio</li>
+                   <li>Contact</li>
+                </ul>
+            </div>
+        </div>
+    </section>
 </body>
 </html>
