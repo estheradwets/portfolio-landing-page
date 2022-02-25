@@ -48,3 +48,24 @@ header{
     height: 70vh;
     margin-bottom: 70px;
 }
+
+.me-info{
+    width: 350px;
+    align-self: center;
+    
+}
+
+.me-info h4{
+    font-size: 24px;
+    margin-bottom: 14px;
+}
+
+.me-info h2{
+    font-size: 40px;
+    margin-bottom: 20px;
+} 
+
+.me-info span{
+    color: rgb(189, 37, 125);
+}
+
