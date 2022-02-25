@@ -23,3 +23,28 @@ header{
     border: none;
     outline: none;
 }
+
+.menu-section{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.page-links{
+    display: flex;
+    flex-direction: row;
+    list-style-type: none;
+}
+
+.page-links li{
+    margin-right: 40px;
+    font-size: 20px;
+}
+
+.hero-wrapper{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    height: 70vh;
+    margin-bottom: 70px;
+}
