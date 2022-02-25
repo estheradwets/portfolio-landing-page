@@ -118,3 +118,45 @@ header{
 .img-me{
     margin-left: 90px;
 }
+
+.skills{
+    height: 300px;
+}
+
+.skills P{
+    margin-bottom: 15px;
+}
+.skill{
+    height: 80px;
+}
+
+.skill .bar{
+    width: 100%;
+    background: #000;
+    height: 20px;
+    margin-top: 5px;
+    border-radius: 5px;
+}
+
+.skill-bar{
+    background-color: rgb(216, 62, 62);
+    height: 20px;
+    border-radius: 5px;
+}
+
+.projects{
+    margin-bottom: 80px;
+}
+
+.projects li{
+    list-style-type: none;
+    font-weight: 300;
+}
+
+.portofolio-wrapper{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    padding: 0 40px;
+    margin-bottom: 60px;
+}
+
