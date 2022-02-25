@@ -13,3 +13,13 @@ header{
     height: 80px;
     margin-top: 20px;
 }
+
+.btn{
+    padding: 6px 20px;
+    font-size: 20px;
+    border-radius: 8px;
+    background-color: rgb(177, 13, 103);
+    color: white;
+    border: none;
+    outline: none;
+}
