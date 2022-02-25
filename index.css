@@ -68,4 +68,27 @@ header{
 .me-info span{
     color: rgb(189, 37, 125);
 }
+.me-info h5{
+    font-size: 18px;
+    margin-bottom: 20px;
+    font-weight: 200;
+}
 
+.pic{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.img-esther{
+    width: 250px;
+}
+
+.about-wrapper{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    height: 60vh;
+    align-items: center;
+    margin-bottom: 90px;
+}
