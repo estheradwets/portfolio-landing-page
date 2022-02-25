@@ -3,4 +3,13 @@
     padding: 0;
     box-sizing: border-box;
 }
+.container{
+    padding-left: 60px;
+    padding-right: 60px;
+}
 
+header{
+    top: 0;
+    height: 80px;
+    margin-top: 20px;
+}
