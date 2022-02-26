@@ -1,8 +1,10 @@
 /******* left landing ********/
 .heading{
+    padding-top: 20%;
+    padding-left: 10%;
     width: 80%;
     margin: 0 auto;
-    background: red;
+    background: white;
 }
 /******* //left landing ********/
 
@@ -12,7 +14,7 @@
     height: 35rem;
 }
 .mheshimiwa{
-    background-color: mintcream;
+    background-color: white;
     border-radius: 45%;
     position: absolute;
     top: 100px;
@@ -23,7 +25,7 @@
     position: absolute;
     top: 80px;
     left: 50px;
-    border: thin solid red;
+    border: thin solid black;
     width: 30rem;
     height: 35rem;
     z-index: -100;
@@ -64,6 +66,29 @@
     width: 80%;
     margin: 0 auto;
 }
-.progress{
+
+.skills{
+    height: 300px;
+}
+
+.skills p{
+    margin-bottom: 15px;
+}
+.skill{
+    height: 80px;
+}
+
+.skill .bar{
+    width: 100%;
+    background: #000;
+    height: 20px;
+    margin-top: 5px;
     margin-bottom: 50px;
+    border-radius: 5px;
+}
+
+.skill-bar{
+    background-color: rgb(216, 62, 62);
+    height: 20px;
+    border-radius: 5px;
 }
