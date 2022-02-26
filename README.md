@@ -1,6 +1,6 @@
 # Portfolio
 ##### By Esther Adwets
-### This is a  more detailed description of my resume.
+### This is my portfolio landing page, containing information about me, a few projects I have done, my education background and a contact form.
 ## Table of Content
 + [Description](#description)
 + [Installation Requirement](#Installation)
@@ -9,22 +9,22 @@
 + [Licence](#licence)
 + [Authors Info](#author-Info)
 ## Description
-<p>This is a website that shows my portfolio/resume.It contains all my background information,some sample projects that I have worked on and the experience gained.</p>
+<p>This is a website that shows my portfolio/resume.It contains all my background information,some sample projects that I have worked on, in addition to my education background.</p>
 ## Installation
 ### Requirements
-* Either a computer,phone,tablet or an Ipad
-* An access to the Internet
+* To view this project, you need a computer,smart phone,tablet or an Ipad
+* Access to the Internet
 ### Installation Process
 [Go Back to the top](#portfolio)
 ## Technology Used
-* HTNL - which was used to build the structure of the pages.
-* CSS - which was used to style the pages incuding the left aside navigation bar
+* HTML - Used to build the structure of the pages.
+* CSS - Used to style the pages incuding the left aside navigation bar
 ## Reference
 * Materialize CSS
 [Go Back to the top](#portfolio)
 ## Licence
 MIT License
-Copyright (c) [2019] [Ester Adwets]
+Copyright (c) [2022] [Esther Adwets]
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
 in the Software without restriction, including without limitation the rights
@@ -42,8 +42,8 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 [Go Back to the top](#portfolio)
 ## Authors Info
-Slack Profile – [Ester Adwets](https://www.youtube.com/)
-Linked - [Ester Adwets](https://www.youtube.com/)
+Slack Profile – [Esther Adwets](https://www.youtube.com/)
+Linked - [Esther Adwets](https://www.youtube.com/)
 [Go Back to the top](#portfolio)
 white_check_mark
 eyes
