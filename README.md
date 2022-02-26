@@ -1,5 +1,5 @@
 # Portfolio
-##### By Ester Adwets
+##### By Esther Adwets
 ### This is a  more detailed description of my resume.
 ## Table of Content
 + [Description](#description)
