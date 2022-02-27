@@ -1,6 +1,6 @@
 # Portfolio
 ##### By Esther Adwets
-### This is my portfolio landing page, containing information about me, a few projects I have done, my education background and a contact form.
+### This is my portfolio landing page, containing information about me, services I provide,my skills and expertise, my professional experiences, and a contact me section. 
 ## Table of Content
 + [Description](#description)
 + [Installation Requirement](#Installation)
