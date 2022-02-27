@@ -97,7 +97,7 @@ color: palevioletred;
     height: 40px !important;
     position: absolute;
     bottom: 400px;
-    left: 40px;
+    left: 70px;
 }  
 .side-b{
     background: linear-gradient(to right, white 40%, black 40% 60%);
@@ -283,10 +283,11 @@ color: palevioletred;
   }
 }
 .content-left{
-    background-color: red;
+    background-color: black;
+    color: white;
 }
 .content-right{
-    background-color: green;
+    background-color: palevioletred;
 }
 
 
@@ -323,7 +324,7 @@ color: palevioletred;
 }
 .carousel .overview b {
     text-transform: uppercase;
-    color: #1c47e3;
+    color: palevioletred ;
 }
 .carousel .carousel-indicators {
     bottom: -40px;
@@ -341,7 +342,7 @@ color: palevioletred;
 }
 .carousel-indicators li.active {
     color: #fff;
-    background: #1c47e3;    
+    background: palevioletred;    
     border: 5px double;    
 }
 
