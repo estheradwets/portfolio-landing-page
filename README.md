@@ -16,7 +16,8 @@
 * Access to the Internet
 ### Installation Process
 [Go Back to the top](#portfolio)
-## Technology Used
+## Technology Used 
+This is an HTML and CSS project, with additional styling with Bootstrap. 
 * HTML - Used to build the structure of the pages.
 * CSS - Used to style the pages incuding the left aside navigation bar
 ## Reference
