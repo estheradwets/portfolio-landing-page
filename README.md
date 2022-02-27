@@ -42,12 +42,10 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 [Go Back to the top](#portfolio)
 ## Authors Info
-Slack Profile – [Esther Adwets](https://www.youtube.com/)
-Linked - [Esther Adwets](https://www.youtube.com/)
+Slack Profile – [Esther Adwets](estheradwets00@gmail.com)
+Linked - [Esther Adwets]
 [Go Back to the top](#portfolio)
-white_check_mark
-eyes
-raised_hands
+
 
 
 
