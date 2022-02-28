@@ -10,9 +10,11 @@
 + [Authors Info](#author-Info)
 ## Description
 <p>This is a website that shows my portfolio/resume.It contains all my background information,some sample projects that I have worked on, in addition to my education background.</p>
+
 ## Installation
+
 ### Requirements
-* To view this project, you need a computer,smart phone,tablet or an Ipad
+* To view this project, you need a computer,smart phone,tablet or an Ipad.
 * Access to the Internet
 ### Installation Process
 [Go Back to the top](#portfolio)
